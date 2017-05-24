@@ -1,0 +1,82 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: OHSURx/JGbQBBncxpTVpN6wfAFo=
+
+Name: lib/armeabi/libxtables.so
+SHA1-Digest: ajIHx+gL7Mfz4+JzaXZWOtLNTY8=
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: WWeO4MGtwJWt3nIHS91OxNHV3X4=
+
+Name: res/drawable-ldpi/ic_menu_key.png
+SHA1-Digest: II4LcHI/Bo3K7HBXeIblAE0+zI8=
+
+Name: res/raw/debiancacerts.bks
+SHA1-Digest: rBCa0nuTcyaZ5z2z4qqKtCwPNxU=
+
+Name: res/drawable/green_button_background.xml
+SHA1-Digest: eR2muJVEMcMvWO+rPino+97Lb4Q=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: fgEiFHj5iB0IxyiaXf/At3oeL9k=
+
+Name: lib/armeabi/libobfsproxy.so
+SHA1-Digest: b7WyzW9M6TH6jrz7LP8icGqYM+A=
+
+Name: res/layout/main_activity.xml
+SHA1-Digest: 9QsJthCC4WYdrushtOmwJGwMd5I=
+
+Name: res/raw/privoxy_config
+SHA1-Digest: xud7gwgiso87+HybdFiGcjBNj8Y=
+
+Name: res/raw/torrc
+SHA1-Digest: oEfK4Kae5JlJEQQVp+5+wu6TFAU=
+
+Name: res/raw/geoip6.mp3
+SHA1-Digest: RJ5lEHd3a7E3wDDKSW1VSPdshcc=
+
+Name: res/drawable/btn_green.9.png
+SHA1-Digest: sF0vUKfANrRxEOweF8xEN7hw8dw=
+
+Name: resources.arsc
+SHA1-Digest: MJ/I/DR01n2Afh5c7AR53qPkRXo=
+
+Name: classes.dex
+SHA1-Digest: 78SlhDHwP0HzepZABRr7LtEzG0g=
+
+Name: lib/armeabi/libtor.so
+SHA1-Digest: fx8XVBcgIB9w8ojGcxIq3FlnFEQ=
+
+Name: res/raw/geoip.mp3
+SHA1-Digest: uokMiRzlcsqqu/F1THNA03jNZZM=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: PiV+eeRtQ7yzld2M0mCULY6Cocs=
+
+Name: res/raw/torrctether
+SHA1-Digest: ySsZRhJrp+kSUbWSMiHCDugE7TU=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Bdu5UFdhzyIzfEFyyFIJitTZEC8=
+
+Name: res/drawable-mdpi/ic_menu_key.png
+SHA1-Digest: fcrAhwtxhxMWcFK6/dmeMFGAVTE=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: j3X2mCDJOPDafGITkBwWqBIJ/ss=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: F4hgUTuuXI4Fq0DdJpgWQj4kBOU=
+
+Name: res/drawable/btn_green_pressed.9.png
+SHA1-Digest: eiRrpwOkvRJ14ttbQNl3R1beWTY=
+
+Name: res/drawable-hdpi/ic_menu_key.png
+SHA1-Digest: 9Gy0bv4tBFqVnv7TfQ1E8pZFOF0=
+
+Name: lib/armeabi/libprivoxy.so
+SHA1-Digest: TTHkunIKihgIbV+lVxRzKZJMGjM=
+
+Name: res/xml/policies.xml
+SHA1-Digest: t+TK8DGXUvkYkC0EDIDr2M9gKhA=
+

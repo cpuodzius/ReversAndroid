@@ -1,0 +1,81 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: YRqOCav6j8Gr1Nv4jxGdeH3mlwM=
+
+Name: res/drawable/green_button_background.xml
+SHA1-Digest: xjsu3IgOj1cUx5ceQtKu6bJIM6s=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: JSnfdCT0hM4yks4PY4BJCPheUws=
+
+Name: res/raw/geoip6.mp3
+SHA1-Digest: rHWOyWIMosj6lQfuPkGo/8frAHw=
+
+Name: resources.arsc
+SHA1-Digest: oyutD7lX7kO6Vq6tdS7vRXgjuRc=
+
+Name: lib/armeabi/libtor.so
+SHA1-Digest: mbyu8hjOUHQ/5kCVXd4PAEPU/kM=
+
+Name: res/raw/geoip.mp3
+SHA1-Digest: ZjIyrMLj/1UyF/7AyCKEG43r/tE=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: zmoGrZbC3a+sq0m8AI0gP7vJp9c=
+
+Name: res/raw/torrctether
+SHA1-Digest: 6lIMBq/KoW+XnXxgLferx5vQocQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: h154Gqo50rrWU0wHdHGylRBRly8=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: JSnfdCT0hM4yks4PY4BJCPheUws=
+
+Name: lib/armeabi/libprivoxy.so
+SHA1-Digest: K4W9Y2CyJGdLM7/0pNkou80pfJg=
+
+Name: res/xml/policies.xml
+SHA1-Digest: HgKKeqceRbbV19cAOB6r8nHEDFk=
+
+Name: lib/armeabi/libxtables.so
+SHA1-Digest: 6LFI3TJA4ePrc8ITCtmnckGu9oQ=
+
+Name: res/raw/debiancacerts.bks
+SHA1-Digest: ykIqMYNW6fjO6cp/Fc62TKXrGN8=
+
+Name: res/drawable-ldpi/ic_menu_key.png
+SHA1-Digest: OP1P+zcp3jmpzrUE5WrMye18wkY=
+
+Name: res/raw/torrc
+SHA1-Digest: jwyALYD54v1zgEgM782V3OiThag=
+
+Name: res/raw/privoxy_config
+SHA1-Digest: FPRS9pU8H/5jCfYuM69m4bhhhMw=
+
+Name: res/layout/main_activity.xml
+SHA1-Digest: kebuRnQmp/mYKqsdGTh17nzSM5Y=
+
+Name: lib/armeabi/libobfsproxy.so
+SHA1-Digest: GG4VPcVN4l+hFowkpi41omqhhkE=
+
+Name: res/drawable/btn_green.9.png
+SHA1-Digest: Pv8Ppup7wz+A2EvWsubWV9Dfz5c=
+
+Name: classes.dex
+SHA1-Digest: cl6VUwQIRdS3rSsP2AZZdmbWFgU=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: l1rPX6halZoxPpWST0fMQaY+fhA=
+
+Name: res/drawable-mdpi/ic_menu_key.png
+SHA1-Digest: azZzL3b3fkdGeAL0ytvHYDrMvTU=
+
+Name: res/drawable/btn_green_pressed.9.png
+SHA1-Digest: c/nL07Gy7K3maRlEL1MxCVwf4FU=
+
+Name: res/drawable-hdpi/ic_menu_key.png
+SHA1-Digest: XV+eTq32rlDOcI+EqODIBpLjNL8=
+
