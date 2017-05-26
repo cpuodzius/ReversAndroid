@@ -3,10 +3,10 @@
 
 """
 *
-*       Revers@ndroid - Simplocker
+*       Revers@ndroid - Lockerpin
 *
 *       Atividade: Cassius Puodzius (@cpuodzius)
-*       Script: Cassius Puodzius (@cpuodzius)
+*       Script: Denise Giusto (@DGBilic)
 *
 """
  
