@@ -22,11 +22,11 @@ No entanto, o Droidbox é de fácil instalação e os passos estão bem detalhad
 >   * Nexus 4
 >   * CPU: ARM
 
-Veja mais no [post](https://www.welivesecurity.com/br/2017/05/26/engenharia-reversa-bsides/) que escrive no WeLiveSecurity.
+Veja mais no [post](https://www.welivesecurity.com/br/2017/05/26/engenharia-reversa-bsides/) do WeLiveSecurity.
 
 ### Download
 
-Apliance virtual da atividade: VirtualBox ([torrent](http://mgnet.me/cuTF1CW))
+Apliance virtual da atividade: VirtualBox 5.1 ([torrent](http://mgnet.me/cuTF1CW))
 
 ---
 Twitter: [@cpuodzius](https://twitter.com/cpuodzius)
